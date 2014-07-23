@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Varela Round";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Varela Round"), local("VarelaRound-Regular"), url("../../common-assets/fonts/Varela Round.woff") format("woff");
+}
+
+html,
+body {
+    margin: 0;
+    height: 100%;
+    font: 26px "Varela Round", sans-serif;
+    text-align: center;
+}
+
+body {
+    background: url("../../common-assets/images/bg-gradient-sand.png") repeat-x 0 0 / contain;
+}

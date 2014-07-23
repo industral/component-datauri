@@ -1,0 +1,22 @@
+{
+  "name": "app1",
+  "repo": "industral/app1",
+  "description": "Test app1",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "templates": [
+    "templates/index.html"
+  ],
+  "styles": [
+    "styles/style.css"
+  ],
+  "files": [],
+  "images": [
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "component-datauri",
+  "version": "0.0.1",
+  "description": "Convert all resources from html and css files to data URI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/industral/component-datauri.git"
+  },
+  "keywords": [
+    "component",
+    "image",
+    "base64",
+    "fonts",
+    "datauri",
+    "uri",
+    "embeded",
+    "bundle"
+  ],
+  "author": "Alex Ivasyuv",
+  "license": "MIT",
+  "homepage": "https://github.com/industral/component-datauri",
+  "devDependencies": {
+    "component": ""
+  },
+  "dependencies": {
+    "mime": ""
+  }
+}
